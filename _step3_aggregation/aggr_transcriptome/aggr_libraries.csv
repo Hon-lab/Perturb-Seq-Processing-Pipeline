@@ -1,0 +1,5 @@
+sample_id,molecule_h5
+library_id,/directory_for_your_mapped_library_#1/
+LWXX1,/directory_for_your_mapped_library/molecule_info.h5
+LWXX2,/directory_for_your_mapped_library/molecule_info.h5
+LWXX3,/directory_for_your_mapped_library/molecule_info.h5

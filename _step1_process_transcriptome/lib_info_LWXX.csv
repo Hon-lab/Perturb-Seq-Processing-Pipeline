@@ -1,0 +1,3 @@
+fastqs,sample,library_type
+/directory_for_your_library_#1/,Library_name_here,Library_type_here
+/server/scRNA/,LWXX,Gene Expression
