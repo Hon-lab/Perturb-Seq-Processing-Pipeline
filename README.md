@@ -1,5 +1,10 @@
 # Perturb-Seq-Processing-Pipeline
 
+## Pipeline and Experimental Overview
+![TF_PerturbSeq_worflow_white_background](https://github.com/user-attachments/assets/d3fea3c2-b94d-431d-8e6e-71d862a72a79)
+
+
+
 
 This version of the stable pipeline is to perform all the pre-processing and processing steps required, from **FASTQ** to **h5ad**, for a standard Perturb Seq experiment prepared using 10X (or equivalent). 
 This pipeline contains both the scripts, and container images needed to successfully process a Perturb Seq, as well as generate the files needed to perform any downstream analysis.
@@ -10,7 +15,7 @@ This pipeline contains both the scripts, and container images needed to successf
 - Minimal requirements:
 	- Column 1: Unique ID of sgRNA  saved as ***sgRNA_ref.tsv***
 	- Column 2: Reverse compliment sequence of sgRNA (for 5 Prime sequencing)
-- HTO reference tsv/csv file
+- HTO reference tsv/csv file:
 	- Note. It will also be important to know length of HTOs
 - Minimal requirements:
 	- Column 1: ID of HTO (e.g. HTO1, HTO2 etc.)
