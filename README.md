@@ -31,6 +31,7 @@ This pipeline contains both the scripts, and container images needed to successf
 The relevant folders and scripts can be be copied over manually, or the _make_folders_and_files.sh shell script can be used to automatically generate the the 
 files and directories needed for all the subsequent steps. Further instrucrtions can be found in the script.</br></em>
 
+## Processing Steps
 
 > ### The folders for the subsequent steps can be automatically generated using ___make_files_and_folders.sh___ in the **reference scripts** folder
 
