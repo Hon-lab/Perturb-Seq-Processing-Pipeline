@@ -17,7 +17,7 @@ This pipeline contains both the scripts, and container images needed to successf
 	- Column 2: Reverse compliment sequence of HTO
 - FASTQs for Transcriptome, sgRNA and HTO (R1, R2, I1 and I2, for however many sequencing events and lanes)
 
-## Container Images Provided:
+## Container Images Provided (Found on Docker.io at https://hub.docker.com/repository/docker/mnzima/hon_lab_container_images/general):
  - FBA
  	- A container environment with all the packages required to run the FBA fucntions (see https://fba.readthedocs.io/en/latest/index.html)
  - PySpade 0.1.5
